@@ -18,9 +18,11 @@ p {
 }
 
 a {
+  padding-top: 10px;
   padding: 10px;
 }
 img {
   border: blanchedalmond;
   border-radius: 15px;
+  margin-bottom: 20px;
 }
