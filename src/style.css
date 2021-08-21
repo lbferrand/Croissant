@@ -14,15 +14,18 @@ h3 {
 }
 
 p {
-  padding: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 a {
   padding-top: 10px;
-  padding: 10px;
+  margin: 10px;
 }
+
 img {
-  border: blanchedalmond;
+  border: 2px solid rgb(179, 127, 59);
   border-radius: 15px;
   margin-bottom: 20px;
+  box-shadow: 50px;
 }
